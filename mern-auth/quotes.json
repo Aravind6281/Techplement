@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "text": "The best way to predict the future is to create it.",
+      "author": "mon"
+    },
+    {
+      "id": 2,
+      "text": "Life is 10% what happens to us and 90% how we react to it.",
+      "author": "tue"
+    },
+    {
+      "id": 3,
+      "text": "Success is not final; failure is not fatal: It is the courage to continue that counts.",
+      "author": "wed"
+    },
+    {
+      "id": 4,
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "thus"
+    },
+    {
+      "id": 5,
+      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "fri"
+    },
+    {
+      "id": 6,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "sat"
+    },
+    {
+      "id": 7,
+      "text": "You must be the change you wish to see in the world.",
+      "author": "sun"
+    }
+  ]
+  
